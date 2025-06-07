@@ -8,6 +8,7 @@ Example scripts written in R for
 6. Shiny App for single-cell data visualization
 
 Single-Cell RNA-seq Explorer (Shiny App)
+
 This interactive Shiny application allows users to visually explore and analyze single-cell RNA-seq data stored in a Seurat object. Key features include:
 
 🧭 Main Functionalities:
