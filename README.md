@@ -21,11 +21,12 @@ Violin Plot: Visualize gene expression distributions across groups (e.g., cluste
 Heatmap: Generate heatmaps for selected gene sets, grouped by metadata, with options to customize display.
 
 QC Tab: Includes:
-    Violin plots of quality control metrics (nFeature_RNA, nCount_RNA, percent.mt, percent.ribo)
+
+    -Violin plots of quality control metrics (nFeature_RNA, nCount_RNA, percent.mt, percent.ribo)
     
-    Elbow Plot for PCA dimension selection
+    -Elbow Plot for PCA dimension selection
     
-    Mahalanobis Distance Plot to detect outlier cells based on QC metrics.
+    -Mahalanobis Distance Plot to detect outlier cells based on QC metrics.
     
 Metadata Table: View and search cell-level metadata in a sortable, scrollable table.
 
